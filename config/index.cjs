@@ -15,7 +15,11 @@ const USER_CONFIG = {
 
   PROVINCE: '四川',
   CITY: '眉山',
-
+  
+  // 是否给文字设置多彩颜色, 和emoji不兼容
+  // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
+  IS_SHOW_COLOR: true,
+  
   USERS: [
     {
       // 想要发送的人的名字
