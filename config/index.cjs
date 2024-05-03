@@ -11,8 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx2452a8324dfc3eee',
 
   // 使用微信测试号：公众号APP_SECRET
-  // APP_SECRET: '11dece17dc331e1afb7e08dfb42ee0a9',
-  APP_SECRET: 'ovmV36kWxNX7FeXhpe0d-6g-8PJw',
+  APP_SECRET: '11dece17dc331e1afb7e08dfb42ee0a9',
 
   PROVINCE: '四川',
   CITY: '眉山',
@@ -22,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '乖乖',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ovmV36lxtGWunczi1LZMChGNNAns',
+      id: 'ovmV36kWxNX7FeXhpe0d-6g-8PJw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '3yv6uEWci8FiPQNY3zfxgRKQlfVXYC9ti4lScwnF3qo',
+      useTemplateId: '3kE4zBeyZW-_d3GQUHAqRGD-BgkrR47N4q4GrsQ7tDA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
