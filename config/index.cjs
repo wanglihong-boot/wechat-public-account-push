@@ -11,7 +11,8 @@ const USER_CONFIG = {
   APP_ID: 'wx2452a8324dfc3eee',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '11dece17dc331e1afb7e08dfb42ee0a9',
+  // APP_SECRET: '11dece17dc331e1afb7e08dfb42ee0a9',
+  APP_SECRET: 'ovmV36kWxNX7FeXhpe0d-6g-8PJw',
 
   PROVINCE: '四川',
   CITY: '眉山',
@@ -44,14 +45,14 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2022-12-03' },
         // 结婚纪念日
-        // { keyword: 'marry_day', date: '2022-09-09' },
+         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '3yv6uEWci8FiPQNY3zfxgRKQlfVXYC9ti4lScwnF3qo',
+  CALLBACK_TEMPLATE_ID: '3kE4zBeyZW-_d3GQUHAqRGD-BgkrR47N4q4GrsQ7tDA',
 
   CALLBACK_USERS: [
     {
